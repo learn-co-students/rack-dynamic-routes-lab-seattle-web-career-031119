@@ -1,4 +1,5 @@
 require 'bundler/setup'
+
 Bundler.require
 
 require_relative "../app/item.rb"
